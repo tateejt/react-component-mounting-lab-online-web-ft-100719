@@ -8,7 +8,7 @@ class Timer extends Component {
 
   // add your code here
   componentDidMount(){
-    this.handler
+    this.interval 
   }
 
   render() {
